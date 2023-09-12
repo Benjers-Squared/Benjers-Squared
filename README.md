@@ -1,4 +1,6 @@
 <h3><strong>Benjers Squared</strong></h3>
 
 ---
-this space intentionally left blank.
+Github Repository for my personal projects.
+
+Senior programmers beware, my code is clinically proven to induce nausea.
